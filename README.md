@@ -1,14 +1,14 @@
-### Aven Arlington
+## Aven Arlington
 Software developer with a passion for embedded development, the Rust programming language, and game design.
 
-## Interests
+### Interests
 - The Rust programming language.
 - Game development.
 - Embedded development.
 - Spaceflight
 - Robotics/Automation
 
-## 📫 Contact Me
+### 📫 Contact Me
 - LinkedIn - [Aven Arlington](https://www.linkedin.com/in/aven-arlington/)
 - [Personal Website](https://www.avenarlington.com/)
   -  [Resume](https://www.avenarlington.com/cv/)
